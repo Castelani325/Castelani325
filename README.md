@@ -65,11 +65,6 @@ IT Analyst focused on delivering efficiency through process automation and softw
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castelani325&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castelani325&theme=dracula&hide_border=true&layout=compact&langs_count=6" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Castelani325&radius=16&theme=react&area=true&order=5" width="800" alt="activity-graph graph" />
 </div>
 
