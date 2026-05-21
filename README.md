@@ -22,8 +22,8 @@ Software Engineer and Automation Specialist with a passion for building scalable
 - 💼 **Current Role:** IT Analyst at **Venttos Electronics**, developing high-impact applications in **C# / ASP.NET Core** and **React**.
 - 🚀 **Automation Expert:** Orchestrating complex enterprise workflows with **n8n** to eliminate manual bottlenecks.
 - 🛠️ **Background:** 7 years of discipline and technical excellence in the **Brazilian Air Force (FAB)**.
-- 🧠 **Focus:** Computer Vision (OpenCV), RESTful APIs, and efficient Database Management.
-- 🎓 **Education:** Computer Engineering student at **FUCAPI**.
+- 🧠 **Focus:** RESTful APIs, and efficient Database Management, Computer Vision (OpenCV).
+- 🎓 **Education:** Computer Engineering at **FUCAPI**.
 
 ---
 
